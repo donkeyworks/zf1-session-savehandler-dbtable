@@ -1,5 +1,5 @@
 {
-    "name": "diablomedia/zendframework1-session-savehandler-dbtable",
+    "name": "donkeyworks/zendframework1-session-savehandler-dbtable",
     "description": "Zend Framework 1  component",
     "type": "library",
     "keywords": [
@@ -13,9 +13,9 @@
     "require": {
         "ext-session": "*",
         "php": ">=7.0.0",
-        "diablomedia/zendframework1-config": "^1.0.0",
-        "diablomedia/zendframework1-session": "^1.0.0",
-        "diablomedia/zendframework1-db": "^1.0.0"
+        "donkeyworks/zendframework1-config": "^1.0.0",
+        "donkeyworks/zendframework1-session": "^1.0.0",
+        "donkeyworks/zendframework1-db": "^1.0.0"
     },
     "autoload": {
         "classmap": [
